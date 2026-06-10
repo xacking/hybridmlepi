@@ -1,0 +1,33 @@
+# Jupyter
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+
+# Raw data — never commit (ToS / LGPD). Keep only access instructions in data/
+data/**
+!data/README.md
+!data/LICENSE
+*.csv
+*.xlsx
+*.xls
+!results/**/*.csv
+*.rar
+*.zip
+
+# Trained model binaries (deposit on Zenodo, not GitHub)
+*.h5
+*.joblib
+*.pkl
+*.pt
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

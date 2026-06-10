@@ -1,0 +1,120 @@
+{
+  "cohort": {
+    "n": 603,
+    "positives": 83,
+    "prevalence": 0.138,
+    "n_features": 41,
+    "train_n": 482,
+    "test_n": 121,
+    "test_pos": 17
+  },
+  "roc_auc": 0.839,
+  "chosen_threshold": 0.25,
+  "test_at_chosen": {
+    "threshold": 0.25,
+    "precision": 0.6,
+    "recall": 0.529,
+    "f1": 0.562,
+    "accuracy": 0.884,
+    "TP": 9,
+    "FN": 8,
+    "FP": 6,
+    "TN": 98
+  },
+  "test_at_0.5": {
+    "threshold": 0.5,
+    "precision": 0.545,
+    "recall": 0.353,
+    "f1": 0.429,
+    "accuracy": 0.868,
+    "TP": 6,
+    "FN": 11,
+    "FP": 5,
+    "TN": 99
+  },
+  "test_at_0.3": {
+    "threshold": 0.3,
+    "precision": 0.6,
+    "recall": 0.529,
+    "f1": 0.562,
+    "accuracy": 0.884,
+    "TP": 9,
+    "FN": 8,
+    "FP": 6,
+    "TN": 98
+  },
+  "test_at_0.2": {
+    "threshold": 0.2,
+    "precision": 0.6,
+    "recall": 0.529,
+    "f1": 0.562,
+    "accuracy": 0.884,
+    "TP": 9,
+    "FN": 8,
+    "FP": 6,
+    "TN": 98
+  },
+  "permutation_top12": [
+    {
+      "feature": "Eosinophils",
+      "delta_auc": 0.0661,
+      "std": 0.0235
+    },
+    {
+      "feature": "Leukocytes",
+      "delta_auc": 0.0598,
+      "std": 0.0432
+    },
+    {
+      "feature": "Patient addmited to regular ward (1=yes, 0=no)",
+      "delta_auc": 0.0279,
+      "std": 0.0111
+    },
+    {
+      "feature": "Rhinovirus/Enterovirus",
+      "delta_auc": 0.0148,
+      "std": 0.005
+    },
+    {
+      "feature": "Patient addmited to intensive care unit (1=yes, 0=no)",
+      "delta_auc": 0.0121,
+      "std": 0.0043
+    },
+    {
+      "feature": "Platelets",
+      "delta_auc": 0.0106,
+      "std": 0.0122
+    },
+    {
+      "feature": "Mean corpuscular hemoglobin concentration\u00a0(MCHC)",
+      "delta_auc": 0.0067,
+      "std": 0.0088
+    },
+    {
+      "feature": "Hematocrit",
+      "delta_auc": 0.0048,
+      "std": 0.0056
+    },
+    {
+      "feature": "Patient age quantile",
+      "delta_auc": 0.0046,
+      "std": 0.0047
+    },
+    {
+      "feature": "Lymphocytes",
+      "delta_auc": 0.0036,
+      "std": 0.002
+    },
+    {
+      "feature": "Hemoglobin",
+      "delta_auc": 0.0029,
+      "std": 0.0051
+    },
+    {
+      "feature": "Influenza B",
+      "delta_auc": 0.0023,
+      "std": 0.0043
+    }
+  ],
+  "age_rank": 9
+}

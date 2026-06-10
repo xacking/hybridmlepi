@@ -1,0 +1,26 @@
+# Core ML / DL
+tensorflow>=2.15
+scikit-learn==1.7.*
+numpy
+pandas
+
+# NLP / sentiment (social-media track)
+nltk
+textblob
+better-profanity
+transformers
+tweepy            # tweet hydration only; raw tweets are not redistributed
+wordcloud
+
+# Explainability (clinical track)
+shap==0.49.*
+
+# Plotting
+matplotlib
+seaborn
+
+# Excel I/O (COVID CBC dataset is distributed as .xlsx)
+openpyxl
+
+# Notebook environment
+jupyterlab

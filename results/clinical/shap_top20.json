@@ -1,0 +1,105 @@
+{
+  "top_feature": "Leukocytes",
+  "top20": [
+    {
+      "feature": "Leukocytes",
+      "mean_abs_shap": 1.4193455598342595,
+      "rank": 1
+    },
+    {
+      "feature": "Eosinophils",
+      "mean_abs_shap": 0.6011417734929255,
+      "rank": 2
+    },
+    {
+      "feature": "Monocytes",
+      "mean_abs_shap": 0.4569073057646781,
+      "rank": 3
+    },
+    {
+      "feature": "Patient addmited to regular ward (1=yes, 0=no)",
+      "mean_abs_shap": 0.28718672229728864,
+      "rank": 4
+    },
+    {
+      "feature": "Creatinine",
+      "mean_abs_shap": 0.2860180663901573,
+      "rank": 5
+    },
+    {
+      "feature": "Platelets",
+      "mean_abs_shap": 0.25997508019374554,
+      "rank": 6
+    },
+    {
+      "feature": "Hematocrit",
+      "mean_abs_shap": 0.2527080244042999,
+      "rank": 7
+    },
+    {
+      "feature": "Mean corpuscular hemoglobin concentration\u00a0(MCHC)",
+      "mean_abs_shap": 0.1837056064613769,
+      "rank": 8
+    },
+    {
+      "feature": "Red blood Cells",
+      "mean_abs_shap": 0.18332126104435956,
+      "rank": 9
+    },
+    {
+      "feature": "Proteina C reativa mg/dL",
+      "mean_abs_shap": 0.1581453665487222,
+      "rank": 10
+    },
+    {
+      "feature": "Patient age quantile",
+      "mean_abs_shap": 0.140086092731618,
+      "rank": 11
+    },
+    {
+      "feature": "Mean corpuscular hemoglobin (MCH)",
+      "mean_abs_shap": 0.1289198545580198,
+      "rank": 12
+    },
+    {
+      "feature": "Basophils",
+      "mean_abs_shap": 0.11943685229422028,
+      "rank": 13
+    },
+    {
+      "feature": "Mean corpuscular volume (MCV)",
+      "mean_abs_shap": 0.08886969324731071,
+      "rank": 14
+    },
+    {
+      "feature": "Hemoglobin",
+      "mean_abs_shap": 0.08771939000543423,
+      "rank": 15
+    },
+    {
+      "feature": "Neutrophils",
+      "mean_abs_shap": 0.07723017207580793,
+      "rank": 16
+    },
+    {
+      "feature": "Red blood cell distribution width (RDW)",
+      "mean_abs_shap": 0.06865138923658043,
+      "rank": 17
+    },
+    {
+      "feature": "Patient addmited to intensive care unit (1=yes, 0=no)",
+      "mean_abs_shap": 0.06464545734947691,
+      "rank": 18
+    },
+    {
+      "feature": "Mean platelet volume ",
+      "mean_abs_shap": 0.06463361457846359,
+      "rank": 19
+    },
+    {
+      "feature": "Potassium",
+      "mean_abs_shap": 0.06279532114193093,
+      "rank": 20
+    }
+  ]
+}

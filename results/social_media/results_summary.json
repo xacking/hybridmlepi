@@ -1,0 +1,113 @@
+{
+  "CNN-RF (baseline)": {
+    "report": {
+      "class_0": {
+        "precision": 0.93,
+        "recall": 0.99,
+        "f1": 0.96,
+        "support": 1406
+      },
+      "class_1": {
+        "precision": 0.94,
+        "recall": 0.6,
+        "f1": 0.73,
+        "support": 273
+      },
+      "accuracy": 0.93,
+      "macro_avg": {
+        "precision": 0.93,
+        "recall": 0.8,
+        "f1": 0.85,
+        "support": 1679
+      },
+      "weighted_avg": {
+        "precision": 0.93,
+        "recall": 0.93,
+        "f1": 0.92,
+        "support": 1679
+      }
+    },
+    "confusion_matrix": {
+      "TP": 164,
+      "FN": 109,
+      "FP": 10,
+      "TN": 1396,
+      "P": 273,
+      "N": 1406
+    }
+  },
+  "CNN-RF + Sentiment": {
+    "report": {
+      "class_0": {
+        "precision": 0.94,
+        "recall": 0.99,
+        "f1": 0.96,
+        "support": 1406
+      },
+      "class_1": {
+        "precision": 0.93,
+        "recall": 0.66,
+        "f1": 0.77,
+        "support": 273
+      },
+      "accuracy": 0.94,
+      "macro_avg": {
+        "precision": 0.93,
+        "recall": 0.82,
+        "f1": 0.87,
+        "support": 1679
+      },
+      "weighted_avg": {
+        "precision": 0.94,
+        "recall": 0.94,
+        "f1": 0.93,
+        "support": 1679
+      }
+    },
+    "confusion_matrix": {
+      "TP": 180,
+      "FN": 93,
+      "FP": 14,
+      "TN": 1392,
+      "P": 273,
+      "N": 1406
+    }
+  },
+  "CNN-LSTM-RF + Sentiment": {
+    "report": {
+      "class_0": {
+        "precision": 0.95,
+        "recall": 0.99,
+        "f1": 0.97,
+        "support": 1406
+      },
+      "class_1": {
+        "precision": 0.92,
+        "recall": 0.73,
+        "f1": 0.81,
+        "support": 273
+      },
+      "accuracy": 0.94,
+      "macro_avg": {
+        "precision": 0.93,
+        "recall": 0.86,
+        "f1": 0.89,
+        "support": 1679
+      },
+      "weighted_avg": {
+        "precision": 0.94,
+        "recall": 0.94,
+        "f1": 0.94,
+        "support": 1679
+      }
+    },
+    "confusion_matrix": {
+      "TP": 199,
+      "FN": 74,
+      "FP": 17,
+      "TN": 1389,
+      "P": 273,
+      "N": 1406
+    }
+  }
+}

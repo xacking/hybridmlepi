@@ -1,0 +1,34 @@
+[
+  [
+    "A. Neutral sentiment",
+    "Almost every prevalent pathogen has a recorded history of post-viral syndrome: Covid, EBV, Zika, Ebola, Lyme, Spanish Flu, Dengue …"
+  ],
+  [
+    "A. Neutral sentiment",
+    "MoH update: confirmed cases of viral haemorrhagic fever reported in [LOC]; case definition includes fever, fatigue, and headache."
+  ],
+  [
+    "B. Non-medical / metaphorical",
+    "GOP's [@user] says he expects 'the fever to break' tomorrow. Fever? This is political ebola. [@user] is on life support."
+  ],
+  [
+    "B. Non-medical / metaphorical",
+    "@user the government is the real disease here — corruption is spreading faster than any flu I've ever seen."
+  ],
+  [
+    "C. Unhandled negation",
+    "I don't have Ebola but my colleague at work has been off sick for three days now with high fever and vomiting."
+  ],
+  [
+    "C. Unhandled negation",
+    "There's no Ebola in [LOC] yet — but rumours of a child with fever and bleeding gums in the eastern districts are scaring everyone."
+  ],
+  [
+    "D. Short / sparse signal",
+    "@user feeling weak and tired today, hope it's not flu."
+  ],
+  [
+    "D. Short / sparse signal",
+    "Ebola sore throat? Day 2 of this."
+  ]
+]

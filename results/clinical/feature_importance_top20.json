@@ -1,0 +1,102 @@
+[
+  {
+    "feature": "Leukocytes",
+    "mean": 0.06778846153846153,
+    "std": 0.05197107466919105
+  },
+  {
+    "feature": "Eosinophils",
+    "mean": 0.06091628959276015,
+    "std": 0.019648852361178814
+  },
+  {
+    "feature": "Patient addmited to regular ward (1=yes, 0=no)",
+    "mean": 0.030373303167420783,
+    "std": 0.011696115970941686
+  },
+  {
+    "feature": "Proteina C reativa mg/dL",
+    "mean": 0.013772624434389114,
+    "std": 0.005333788380595405
+  },
+  {
+    "feature": "Platelets",
+    "mean": 0.013659502262443418,
+    "std": 0.013169474880992805
+  },
+  {
+    "feature": "Patient addmited to intensive care unit (1=yes, 0=no)",
+    "mean": 0.013631221719456976,
+    "std": 0.004435269212695768
+  },
+  {
+    "feature": "Hematocrit",
+    "mean": 0.010407239819004498,
+    "std": 0.009085759899074652
+  },
+  {
+    "feature": "Mean corpuscular hemoglobin concentration\u00a0(MCHC)",
+    "mean": 0.005429864253393646,
+    "std": 0.00574143780110836
+  },
+  {
+    "feature": "Lymphocytes",
+    "mean": 0.0028846153846153744,
+    "std": 0.0023721964904423864
+  },
+  {
+    "feature": "Red blood Cells",
+    "mean": 0.0028280542986425183,
+    "std": 0.008436896996706038
+  },
+  {
+    "feature": "Neutrophils",
+    "mean": 0.002460407239818996,
+    "std": 0.005829565947932593
+  },
+  {
+    "feature": "Mean platelet volume ",
+    "mean": 0.002432126696832565,
+    "std": 0.004137473401103298
+  },
+  {
+    "feature": "Basophils",
+    "mean": 0.001498868778280532,
+    "std": 0.006444675969733903
+  },
+  {
+    "feature": "Sodium",
+    "mean": 0.0012443438914027049,
+    "std": 0.0025458772477210154
+  },
+  {
+    "feature": "Rhinovirus/Enterovirus",
+    "mean": 0.0007352941176470562,
+    "std": 0.0005684318790226728
+  },
+  {
+    "feature": "Inf A H1N1 2009",
+    "mean": 0.00016968325791855143,
+    "std": 0.0002591954578594923
+  },
+  {
+    "feature": "Hemoglobin",
+    "mean": 0.00016968325791854588,
+    "std": 0.005848263124104775
+  },
+  {
+    "feature": "Mean corpuscular volume (MCV)",
+    "mean": 8.484162895927572e-05,
+    "std": 0.006155226235154753
+  },
+  {
+    "feature": "Patient age quantile",
+    "mean": 8.484162895926462e-05,
+    "std": 0.006253198338097094
+  },
+  {
+    "feature": "Parainfluenza 4",
+    "mean": 0.0,
+    "std": 0.0
+  }
+]

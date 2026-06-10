@@ -1,0 +1,16 @@
+Derived data and results in this repository (the contents of the results/
+directory and any non-identifying derived files) are licensed under the
+Creative Commons Attribution 4.0 International License (CC-BY-4.0).
+
+You are free to share and adapt the material for any purpose, provided you give
+appropriate credit to:
+
+  Muhammed, F.O.; Suleiman, M.A.; Abdullahi, S.E.; Ogar, A.O.
+  Department of Computer Science, Nile University of Nigeria (2026).
+
+Full license text: https://creativecommons.org/licenses/by/4.0/legalcode
+
+Note: This CC-BY-4.0 license applies ONLY to the derived data/results produced
+by the authors. The underlying source datasets remain governed by their own
+terms (X/Twitter ToS for the Ebola corpus; the Kaggle/Albert Einstein release
+terms for the COVID-19 CBC data). See data/README.md.

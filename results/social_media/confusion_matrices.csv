@@ -1,0 +1,4 @@
+Model,TP,FN,FP,TN,Total Positives,Total Negatives
+CNN-RF (baseline),164,109,10,1396,273,1406
+CNN-RF + Sentiment,180,93,14,1392,273,1406
+CNN-LSTM-RF + Sentiment,199,74,17,1389,273,1406

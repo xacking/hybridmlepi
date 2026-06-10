@@ -1,0 +1,16 @@
+Model,Class,Precision,Recall,F1,Support
+CNN-RF (baseline),class_0,0.93,0.99,0.96,1406
+CNN-RF (baseline),class_1,0.94,0.6,0.73,273
+CNN-RF (baseline),macro_avg,0.93,0.8,0.85,1679
+CNN-RF (baseline),weighted_avg,0.93,0.93,0.92,1679
+CNN-RF (baseline),accuracy,,,0.93,1679
+CNN-RF + Sentiment,class_0,0.94,0.99,0.96,1406
+CNN-RF + Sentiment,class_1,0.93,0.66,0.77,273
+CNN-RF + Sentiment,macro_avg,0.93,0.82,0.87,1679
+CNN-RF + Sentiment,weighted_avg,0.94,0.94,0.93,1679
+CNN-RF + Sentiment,accuracy,,,0.94,1679
+CNN-LSTM-RF + Sentiment,class_0,0.95,0.99,0.97,1406
+CNN-LSTM-RF + Sentiment,class_1,0.92,0.73,0.81,273
+CNN-LSTM-RF + Sentiment,macro_avg,0.93,0.86,0.89,1679
+CNN-LSTM-RF + Sentiment,weighted_avg,0.94,0.94,0.94,1679
+CNN-LSTM-RF + Sentiment,accuracy,,,0.94,1679
